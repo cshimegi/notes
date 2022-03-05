@@ -1,3 +1,6 @@
+# Installation
+- Ues yarn to manage packages
+
 # Vue project management framework
 - Nuxt
   - Provide
@@ -6,6 +9,6 @@
   - Make vue can do SSR or CSR
   - Make developer be able to focus on app development
 
-# Vue style framework
+# UI framework
 - vuetify
 

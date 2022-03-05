@@ -16,13 +16,13 @@
 
 
 
-# Questions
-- why NoSQL 比起 RMDB 更容易達成 scalability?
-- 反之 why RMDB 比 NoSQL 難達成 scalability?
-- 為何 NoSQL 開始流行起來？
-- why RMDB performance is weaker at 1-to-many relationships than NoSQL?
-- why NoSQL is weaker at many-to-many relationships?
-- Which case we will choose NoSQL? and which case we will choose RMDB?
-- RMDB is following ACID or CAP?
-- NoSQL is following ACID or CAP?
+# Interview Questions
+- Why is NoSQL easier to achieve scalability than RMDB?
+- Why is RMDB more difficult to achieve scalability than NoSQL?
+- Why does NoSQL become popular?
+- Why is RMDB performance weaker at 1-to-many relationships than NoSQL?
+- Why NoSQL is weaker at many-to-many relationships?
+- Which case will we choose NoSQL? and which case will we choose RMDB?
+- Is RMDB following ACID or CAP?
+- Is NoSQL following ACID or CAP?
 - What's the difference between concurrent and parallel? (1 core CPU)
